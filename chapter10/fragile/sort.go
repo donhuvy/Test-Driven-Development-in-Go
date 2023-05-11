@@ -4,7 +4,9 @@ import (
 	"fmt"
 	"sort"
 )
+
 var input map[int]string
+
 func GetValues(dir string) []string {
 	var keys []int
 	for k := range input {
@@ -26,7 +28,7 @@ func GetValues(dir string) []string {
 }
 
 func main() {
-	input = map[int]string{2:"B", 4: "D", 3: "C", 1:"A"}
+	input = map[int]string{2: "B", 4: "D", 3: "C", 1: "A"}
 	fmt.Println("Sorted asc:", GetValues("asc"))
 	fmt.Println("Sorted desc:", GetValues("desc"))
 }

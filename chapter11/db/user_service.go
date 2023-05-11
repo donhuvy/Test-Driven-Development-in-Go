@@ -18,8 +18,8 @@ type User struct {
 
 // Wrapper struct for all the books and magazines of a given user
 type UserProfile struct {
-	User User
-	Books []Book
+	User      User
+	Books     []Book
 	Magazines []Magazine
 }
 
@@ -63,8 +63,8 @@ func (us *UserService) Get(id string) (*UserProfile, error) {
 	}
 
 	return &UserProfile{
-		User: u,
-		Books: books,
+		User:      u,
+		Books:     books,
 		Magazines: mags,
 	}, nil
 }

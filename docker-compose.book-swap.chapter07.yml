@@ -6,7 +6,7 @@ services:
       context: .
       dockerfile: Dockerfile.book-swap.chapter07
     ports:
-      - "${BOOKSWAP_PORT}:${BOOKSWAP_PORT}" 
+      - "${BOOKSWAP_PORT}:${BOOKSWAP_PORT}"
     depends_on:
       db:
         condition: service_healthy

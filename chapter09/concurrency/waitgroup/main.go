@@ -4,7 +4,9 @@ import (
 	"fmt"
 	"sync"
 )
+
 const workerCount = 3
+
 func greet(id int, smap *sync.Map, wg *sync.WaitGroup) {
 	defer wg.Done()
 	g := fmt.Sprintf("Hello, friend! I'm Goroutine %d.", id)

@@ -16,7 +16,7 @@ func safelyClose(once *sync.Once, ch chan struct{}) {
 func main() {
 	var once sync.Once
 	ch := make(chan struct{})
-	for i := 0; i<3; i++ {
+	for i := 0; i < 3; i++ {
 		go safelyClose(&once, ch)
 	}
 	<-ch
