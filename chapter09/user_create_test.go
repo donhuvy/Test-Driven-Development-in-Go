@@ -9,7 +9,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/PacktPublishing/Test-Driven-Development-in-Go/chapter04/handlers"
+	"github.com/donhuvy/Test-Driven-Development-in-Go/chapter04/handlers"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

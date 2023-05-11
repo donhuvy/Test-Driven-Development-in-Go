@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/PacktPublishing/Test-Driven-Development-in-Go/chapter09/db"
-	"github.com/PacktPublishing/Test-Driven-Development-in-Go/chapter09/handlers"
+	"github.com/donhuvy/Test-Driven-Development-in-Go/chapter09/db"
+	"github.com/donhuvy/Test-Driven-Development-in-Go/chapter09/handlers"
 	"github.com/golang-migrate/migrate/v4"
 	_ "github.com/golang-migrate/migrate/v4/database/postgres"
 	_ "github.com/golang-migrate/migrate/v4/source/file"

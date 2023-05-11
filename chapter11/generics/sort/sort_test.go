@@ -4,7 +4,7 @@ import (
 	"sort"
 	"testing"
 
-	gs "github.com/PacktPublishing/Test-Driven-Development-in-Go/chapter11/generics/sort"
+	gs "github.com/donhuvy/Test-Driven-Development-in-Go/chapter11/generics/sort"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

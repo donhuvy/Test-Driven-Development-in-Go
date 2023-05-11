@@ -6,7 +6,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/PacktPublishing/Test-Driven-Development-in-Go/chapter10/db"
+	"github.com/donhuvy/Test-Driven-Development-in-Go/chapter10/db"
 	"github.com/gorilla/mux"
 )
 

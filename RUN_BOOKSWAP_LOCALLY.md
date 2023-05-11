@@ -6,7 +6,7 @@ These instructions are required from `Chapter04` onwards.
 
 You will need the following tools to run your the code in this repository:
 
-- [Go 1.19 or later](https://go.dev/doc/install)
+- [Go 1.20 or later](https://go.dev/doc/install)
 - [PostgresSQL 15 or later](https://www.postgresql.org/download/)
 - [Docker 4.17 or later](https://www.docker.com/products/docker-desktop/)
 

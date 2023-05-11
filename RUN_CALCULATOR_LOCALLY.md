@@ -6,7 +6,7 @@ These instructions are required from `chapter01` to `chapter03`.
 
 You will need the following tools to run your the code in this repository:
 
-- [Go 1.19 or later](https://go.dev/doc/install)
+- [Go 1.20 or later](https://go.dev/doc/install)
 
 This project depends on a variety of testing tools, which are used for instruction and demonstration purposes:
 

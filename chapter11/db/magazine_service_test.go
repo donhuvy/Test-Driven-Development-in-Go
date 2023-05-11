@@ -5,8 +5,8 @@ import (
 	"log"
 	"testing"
 
-	"github.com/PacktPublishing/Test-Driven-Development-in-Go/chapter11/db"
-	"github.com/PacktPublishing/Test-Driven-Development-in-Go/chapter11/mocks"
+	"github.com/donhuvy/Test-Driven-Development-in-Go/chapter11/db"
+	"github.com/donhuvy/Test-Driven-Development-in-Go/chapter11/mocks"
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"

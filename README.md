@@ -49,12 +49,12 @@ With the following software and hardware list you can run all code files present
 
 ### Software and Hardware List
 
-| Chapter    | Software required   | OS required                        |
-|------------|---------------------|------------------------------------|
-| 1-11       | Go 1.19             | Windows, Mac OS X, and Linux (Any) |
-| 6-11       | PostgreSQL 15       | Windows, Mac OS X, and Linux (Any) |
-| 6-11       | Docker Desktop 4.17 | Windows, Mac OS X, and Linux (Any) |
-| (optional) | Postman 10          | Windows, Mac OS X, and Linux (Any) |
+| Chapter    | Software required     | OS required                        |
+|------------|-----------------------|------------------------------------|
+| 1-11       | Go 1.20               | Windows, Mac OS X, and Linux (Any) |
+| 6-11       | PostgreSQL 15         | Windows, Mac OS X, and Linux (Any) |
+| 6-11       | Docker Desktop 4.19.0 | Windows, Mac OS X, and Linux (Any) |
+| (optional) | Postman 10.13.0       | Windows, Mac OS X, and Linux (Any) |
 
 For instructions on how to run code locally from Chapter01 to Chapter03, please refer
 to [RUN_CALCULATOR_LOCALLY.md](https://github.com/PacktPublishing/Test-Driven-Development-in-Go/blob/main/RUN_CALCULATOR_LOCALLY.md)

@@ -10,9 +10,9 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/PacktPublishing/Test-Driven-Development-in-Go/chapter06/db"
-	"github.com/PacktPublishing/Test-Driven-Development-in-Go/chapter06/handlers"
 	"github.com/cucumber/godog"
+	"github.com/donhuvy/Test-Driven-Development-in-Go/chapter06/db"
+	"github.com/donhuvy/Test-Driven-Development-in-Go/chapter06/handlers"
 )
 
 // contextKey is used to pass information between test steps.
