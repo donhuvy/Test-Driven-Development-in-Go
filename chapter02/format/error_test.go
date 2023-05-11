@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/PacktPublishing/Test-Driven-Development-in-Go/chapter02/format"
+	"github.com/donhuvy/Test-Driven-Development-in-Go/chapter02/format"
 )
 
 func TestError(t *testing.T) {

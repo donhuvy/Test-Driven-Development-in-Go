@@ -4,8 +4,8 @@ import (
 	"flag"
 	"log"
 
-	"github.com/PacktPublishing/Test-Driven-Development-in-Go/chapter02/calculator"
-	"github.com/PacktPublishing/Test-Driven-Development-in-Go/chapter02/input"
+	"github.com/donhuvy/Test-Driven-Development-in-Go/chapter02/calculator"
+	"github.com/donhuvy/Test-Driven-Development-in-Go/chapter02/input"
 )
 
 func main() {

@@ -3,7 +3,7 @@
 package mocks
 
 import (
-	calculator "github.com/PacktPublishing/Test-Driven-Development-in-Go/chapter03/calculator"
+	calculator "github.com/donhuvy/Test-Driven-Development-in-Go/chapter03/calculator"
 
 	mock "github.com/stretchr/testify/mock"
 )

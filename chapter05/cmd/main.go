@@ -9,8 +9,8 @@ import (
 
 	_ "embed"
 
-	"github.com/PacktPublishing/Test-Driven-Development-in-Go/chapter05/db"
-	"github.com/PacktPublishing/Test-Driven-Development-in-Go/chapter05/handlers"
+	"github.com/donhuvy/Test-Driven-Development-in-Go/chapter05/db"
+	"github.com/donhuvy/Test-Driven-Development-in-Go/chapter05/handlers"
 )
 
 //go:embed books.json

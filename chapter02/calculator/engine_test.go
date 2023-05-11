@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/PacktPublishing/Test-Driven-Development-in-Go/chapter02/calculator"
+	"github.com/donhuvy/Test-Driven-Development-in-Go/chapter02/calculator"
 )
 
 func TestMain(m *testing.M) {

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/PacktPublishing/Test-Driven-Development-in-Go/chapter03-solution/format"
+	"github.com/donhuvy/Test-Driven-Development-in-Go/chapter03-solution/format"
 	"github.com/stretchr/testify/assert"
 )
 

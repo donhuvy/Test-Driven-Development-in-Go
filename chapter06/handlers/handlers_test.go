@@ -10,8 +10,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/PacktPublishing/Test-Driven-Development-in-Go/chapter06/db"
-	"github.com/PacktPublishing/Test-Driven-Development-in-Go/chapter06/handlers"
+	"github.com/donhuvy/Test-Driven-Development-in-Go/chapter06/db"
+	"github.com/donhuvy/Test-Driven-Development-in-Go/chapter06/handlers"
 	"github.com/google/uuid"
 	"github.com/gorilla/mux"
 	"github.com/stretchr/testify/assert"

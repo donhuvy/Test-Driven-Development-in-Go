@@ -3,7 +3,7 @@ package calculator_test
 import (
 	"testing"
 
-	"github.com/PacktPublishing/Test-Driven-Development-in-Go/chapter03/calculator"
+	"github.com/donhuvy/Test-Driven-Development-in-Go/chapter03/calculator"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

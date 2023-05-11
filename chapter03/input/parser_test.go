@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/PacktPublishing/Test-Driven-Development-in-Go/chapter03/calculator"
-	"github.com/PacktPublishing/Test-Driven-Development-in-Go/chapter03/input"
-	"github.com/PacktPublishing/Test-Driven-Development-in-Go/chapter03/mocks"
+	"github.com/donhuvy/Test-Driven-Development-in-Go/chapter03/calculator"
+	"github.com/donhuvy/Test-Driven-Development-in-Go/chapter03/input"
+	"github.com/donhuvy/Test-Driven-Development-in-Go/chapter03/mocks"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

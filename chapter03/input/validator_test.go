@@ -3,7 +3,7 @@ package input_test
 import (
 	"testing"
 
-	"github.com/PacktPublishing/Test-Driven-Development-in-Go/chapter03/input"
+	"github.com/donhuvy/Test-Driven-Development-in-Go/chapter03/input"
 )
 
 func TestCheckInput(t *testing.T) {

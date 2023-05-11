@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/PacktPublishing/Test-Driven-Development-in-Go/chapter04/db"
+	"github.com/donhuvy/Test-Driven-Development-in-Go/chapter04/db"
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/assert"
 )
